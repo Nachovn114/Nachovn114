@@ -1,5 +1,6 @@
 ![logo](https://raw.githubusercontent.com/supuna97/supuna97/main/supun-new.png)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hola 👋, Me llamo Ignacio</h1>
 <p align="center">
@@ -10,25 +11,23 @@
 </p>
 
 <p align="center">
-  📫 Conéctate conmigo: <a href="https://linkedin.com/in/ignacio-valeria" target="_blank">LinkedIn</a> | ✉️ ignaciovn11@gmail.com
+  📫 Conéctate conmigo: <a href="https://linkedin.com/in/ignacio-valeria" target="_blank">LinkedIn</a> | ✉️ <a href="mailto:ignaciovn11@gmail.com">ignaciovn11@gmail.com</a>
 </p>
 <p align="center">
   <em>"El futuro se construye, una línea de código a la vez."</em>
 </p>
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
+  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supuna97" /> 
 </p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <br>
@@ -51,17 +50,23 @@
 
 - 💬 Pregúntame sobre <strong>JavaScript, HTML, CSS, React y desarrollo web</strong>.
 
-- 📫 Cómo contactarme <strong>ignaciovn11@gmail.com</strong>.
+- 📫 Cómo contactarme: <a href="mailto:ignaciovn11@gmail.com"><strong>ignaciovn11@gmail.com</strong></a>.
 
 - 📄 Conoce más sobre mis experiencias <a href="#">aquí</a>.
 
-- ⚡ Curiosidad <strong>Me dicen Nacho, y no me resisto a un buen café ☕.</strong>
+- ⚡ Curiosidad: <strong>Me dicen Nacho, y no me resisto a un buen café ☕.</strong>
 
 <h3 align="left">Conéctate para explorar mis proyectos:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://fb.com/supun.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
-<a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ignacio-valeria" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignacio-valeria" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/ignacio.valeria" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ignacio-valeria" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/ignacio_valeria" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ignacio_valeria" height="30" width="40" />
+  </a>
 </p>
 <br>
 
@@ -108,29 +113,28 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Trofeo:</h3>
+<h3 align="left">Trofeos:</h3>
 
 <p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
+  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">
+</p>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+</div>
+<br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Echa un vistazo a mis estadísticas en GitHub:</h3>
 <div align="center">
- 
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=supuna97&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple" />
 </div>
 
 <br><br>
