@@ -53,25 +53,23 @@
 
 - 💬 Pregúntame sobre <strong>JavaScript, HTML, CSS, React y desarrollo web</strong>.
 
-- 📫 Cómo contactarme <strong>nacho.valeria@email.com</strong>.
+- 📫 Cómo contactarme <strong>ignaciovn11@gmail.com</strong>.
 
 - 📄 Conoce más sobre mis experiencias <a href="#">aquí</a>.
 
 - ⚡ Curiosidad <strong>Me dicen Nacho, y no me resisto a un buen café ☕.</strong>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conéctate para explorar mis proyectos:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
 <a href="https://fb.com/supun.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
 <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
 </p>
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas:</h3>
 
 - Backend
 <p align="left">
@@ -87,21 +85,21 @@
   </a>
 </p>
 
-- Database
+- Base de Datos
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
 
-- Cloud Servers
+- Servidores en la Nube
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
   </a>
 </p>
 
-- Tools
+- Herramientas
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
@@ -112,7 +110,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Trophy:</h3>
+<h3 align="left">Trofeo:</h3>
 
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
@@ -128,7 +126,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">Echa un vistazo a mis estadísticas en GitHub:</h3>
 <div align="center">
  
 ![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
