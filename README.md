@@ -49,8 +49,6 @@
 
 - 🌱 Actualmente estoy aprendiendo <strong>DevOps</strong> y tecnologías web modernas.
 
-- 👨‍💻 Todos mis proyectos están disponibles en <a href="#">el espacio de trabajo de Nacho Valeria</a>.
-
 - 💬 Pregúntame sobre <strong>JavaScript, HTML, CSS, React y desarrollo web</strong>.
 
 - 📫 Cómo contactarme <strong>ignaciovn11@gmail.com</strong>.
